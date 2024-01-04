@@ -25,6 +25,7 @@
 <div align="center">
   <img width="730" alt="Screenshot 2024-01-04 at 16 53 58" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/864ee047-3b28-4d1c-b636-98c552e18696">
   <img width="777" alt="Screenshot 2024-01-04 at 16 54 07" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/9f2c8118-fa00-4deb-b92b-88924f3aee06">
-  <img width="777" alt="Screenshot 2024-01-04 at 16 54 17" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/64889f04-64e2-49ed-89bf-8f12a355a863">
+  <img width="778" alt="Screenshot 2024-01-04 at 18 50 06" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/344216e2-4e6f-4885-a61e-51467ab7169f">
+
 </div>
 
