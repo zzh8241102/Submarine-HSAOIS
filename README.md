@@ -23,8 +23,8 @@
 
 ### Selected Highlights:
 <div align="center">
-  <img width="932" alt="Screenshot 2024-01-04 at 15 49 07" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/c3d42aca-097c-43ae-9200-bbbc261e412e">
-  <img width="932" alt="Screenshot 2024-01-04 at 15 51 34" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/0276b191-6fcb-4b32-956b-3b5f9a79982d">
-  <img width="932" alt="Screenshot 2024-01-04 at 15 52 03" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/2a8e0ecc-48b0-4f5d-9739-70929787d9de">
+  <img width="777" alt="Screenshot 2024-01-04 at 15 49 07" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/c3d42aca-097c-43ae-9200-bbbc261e412e">
+  <img width="777" alt="Screenshot 2024-01-04 at 15 51 34" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/0276b191-6fcb-4b32-956b-3b5f9a79982d">
+  <img width="777" alt="Screenshot 2024-01-04 at 15 52 03" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/2a8e0ecc-48b0-4f5d-9739-70929787d9de">
 </div>
 
