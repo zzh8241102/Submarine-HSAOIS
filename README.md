@@ -18,13 +18,13 @@
 
 #### What it looks like (Styled after vscode)
 <div align="center">
-  <img width="797" alt="截屏2022-04-23 14 50 01" src="https://user-images.githubusercontent.com/89094576/164883647-fef7ab7c-a06f-490e-9cc7-fc598ffb108c.png">
+  <img width="1222" alt="截屏2022-04-23 14 50 01" src="https://user-images.githubusercontent.com/89094576/164883647-fef7ab7c-a06f-490e-9cc7-fc598ffb108c.png">
 </div>
 
 ### Selected Highlights:
 <div align="center">
-  <img width="797" alt="Screenshot 2024-01-04 at 14 54 40" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/a5e55fd5-105e-47aa-b1d0-539e3355bff3">
-  <img width="797" alt="Screenshot 2024-01-04 at 15 29 11" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/97d4b40d-836b-48bc-823e-02afba16c057">
-  <img width="797" alt="Screenshot 2024-01-04 at 15 42 34" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/57b85625-fb74-408f-8e68-856c0cc3b08c">
+  <img width="932" alt="Screenshot 2024-01-04 at 15 49 07" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/c3d42aca-097c-43ae-9200-bbbc261e412e">
+  <img width="932" alt="Screenshot 2024-01-04 at 15 51 34" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/0276b191-6fcb-4b32-956b-3b5f9a79982d">
+  <img width="932" alt="Screenshot 2024-01-04 at 15 52 03" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/2a8e0ecc-48b0-4f5d-9739-70929787d9de">
 </div>
 
