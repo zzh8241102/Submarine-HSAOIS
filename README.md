@@ -1,4 +1,4 @@
-# Submarine HSAOIS
+<img width="761" alt="Screenshot 2024-01-04 at 16 53 40" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/3e6a46e9-d06a-48d9-8c82-d02589143a40"># Submarine HSAOIS
 <img width="311" alt="Screenshot 2024-01-04 at 14 55 00" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/74eab1ba-4c2a-4569-85eb-d8f3dd7f911e">
 
 #### Incubated by MiracleFactory, an AI development and research community
@@ -23,8 +23,8 @@
 
 ### Selected Highlights:
 <div align="center">
-  <img width="777" alt="Screenshot 2024-01-04 at 15 49 07" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/c3d42aca-097c-43ae-9200-bbbc261e412e">
-  <img width="777" alt="Screenshot 2024-01-04 at 15 51 34" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/0276b191-6fcb-4b32-956b-3b5f9a79982d">
-  <img width="777" alt="Screenshot 2024-01-04 at 15 52 03" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/2a8e0ecc-48b0-4f5d-9739-70929787d9de">
+  <img width="777" alt="Screenshot 2024-01-04 at 16 53 58" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/864ee047-3b28-4d1c-b636-98c552e18696">
+  <img width="777" alt="Screenshot 2024-01-04 at 16 54 07" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/9f2c8118-fa00-4deb-b92b-88924f3aee06">
+  <img width="777" alt="Screenshot 2024-01-04 at 16 54 17" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/64889f04-64e2-49ed-89bf-8f12a355a863">
 </div>
 
