@@ -1,4 +1,4 @@
-<img width="761" alt="Screenshot 2024-01-04 at 16 53 40" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/3e6a46e9-d06a-48d9-8c82-d02589143a40"># Submarine HSAOIS
+# Submarine HSAOIS
 <img width="311" alt="Screenshot 2024-01-04 at 14 55 00" src="https://github.com/zzh8241102/Submarine-HSAOIS/assets/80749465/74eab1ba-4c2a-4569-85eb-d8f3dd7f911e">
 
 #### Incubated by MiracleFactory, an AI development and research community
